@@ -5,12 +5,15 @@
 Pizza, a beloved and ubiquitous dish enjoyed by people of all ages, has become a staple in the global food industry. As a result, the pizza market is highly competitive, with numerous pizzerias, fast-food chains, and restaurants vying for a slice of the pie. In this analysis, we will delve into pizza sales data to uncover trends, identify growth opportunities, and gain insights into consumer preferences and market dynamics.
 
 Data Collection and Methodology:
+
  To conduct this analysis, we gathered sales data from various pizza outlets across different regions for the past one years. The data includes information on pizza types, toppings, prices, customer demographics, and sales volumes. Additionally, we took into account external factors such as seasonal influences and economic indicators that may have affected pizza sales.
 
 Overall Pizza Sales Trends:
+
 Our analysis reveals that pizza sales have experienced steady growth over the past three years, indicating a stable and resilient market. The popularity of pizza as a convenient and customizable meal option has contributed to its consistent demand.
 
 Regional Variations:
+
 We noticed distinct regional variations in pizza preferences. For instance, traditional pizza varieties like Margherita and Pepperoni dominated sales in North America, while in European countries, gourmet and specialty pizzas gained popularity. These regional differences underscore the importance of tailoring pizza offerings to specific local tastes.
 
 Impact of Technology:
