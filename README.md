@@ -93,6 +93,8 @@ Conclusion:
 
 The pizza sales analysis provides valuable insights into the dynamic pizza market. Understanding regional preferences, leveraging technology, catering to health-conscious consumers, and employing effective promotional strategies are essential for sustaining growth and success in this competitive industry. By staying adaptable and responsive to changing trends, pizza outlets can continue to flourish and satisfy the appetites of pizza lovers worldwide.
 
+![home](https://github.com/jnana027/Analysis-on-Pizza-Sales/assets/120124430/b1248e9d-f9e5-4f17-ae02-e82b865109af)
+
 
 
 
