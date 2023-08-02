@@ -1,0 +1,22 @@
+Total Revenue = SUM(pizza_sales[total_price])
+
+Total Pizza sold = SUM(pizza_sales[quantity])
+
+Total orders = DISTINCTCOUNT(pizza_sales[order_id])
+
+Avg Pizza per order = DIVIDE([Total Pizza sold],[Total orders],0)
+
+Avg order value = DIVIDE([Total Revenue],[Total orders],0)
+
+Day Number = SWITCH(pizza_sales[Day Name],
+"Sunday",1,
+"Monday",2,
+"Tuesday",3,
+"Wednesday",4,
+"Thursday",5,
+"Friday",6,7)
+
+Order Day = UPPER(LEFT(pizza_sales[Day Name],3))
+
+Order Month = UPPER(LEFT(pizza_sales[Month Name],3))
+

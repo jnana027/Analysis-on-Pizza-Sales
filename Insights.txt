@@ -1,0 +1,11 @@
+Insights:
+The Orders are highest on weekends,Friday/saturday evening.
+There are maximum orders from the month of July and January.
+Classic catagory contributes to maximum sales and total orders.
+Large size pizza contributes to maximum sales.
+The Thai chicken pizza contributes to maximum Revenue.
+The Classic Deluxe pizza contributes to maximum total Quantity.
+The Classic Deluxe pizza contributes to maximum total orders.
+The Brie carre pizza contributes to minimum Revenue.
+The Brie carre pizza contributes to minimum total Quantity.
+The Brie carre pizza contributes to minimum total orders. 
